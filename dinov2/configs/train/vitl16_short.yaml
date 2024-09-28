@@ -1,0 +1,6 @@
+# this corresponds to the default config
+train:
+  dataset_path: ImageNet:split=TRAIN:root=/home/aleximu/gunes/dinov2/dinov2/data/datasets/fishency/train
+  
+student:
+  block_chunks: 4

@@ -1,0 +1,111 @@
+{
+    "os": "Linux-5.4.0-177-generic-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-05-29T18:44:39.948673",
+    "startedAt": "2024-05-29T18:44:39.002503",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/facebookresearch/dinov2.git",
+        "commit": "2302b6bf46953431b969155307b9bed152754069"
+    },
+    "email": "birdortyedi@gmail.com",
+    "root": "/home/aleximu/gunes/dinov2",
+    "host": "aleximu",
+    "username": "aleximu",
+    "executable": "/home/aleximu/anaconda3/envs/dinov2/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2545.9102500000004,
+        "min": 2200.0,
+        "max": 3700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2061.817,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2054.621,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2650.845,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3104.483,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2064.554,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 4228.414,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2065.621,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2062.818,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2290.806,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 3653.968,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2056.293,
+            "min": 2200.0,
+            "max": 3700.0
+        },
+        {
+            "current": 2256.683,
+            "min": 2200.0,
+            "max": 3700.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 456.8854446411133,
+            "used": 374.02772521972656
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2080 Ti",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2080 Ti",
+            "memory_total": 11811160064
+        },
+        {
+            "name": "NVIDIA GeForce RTX 2080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 31.333213806152344
+    }
+}
